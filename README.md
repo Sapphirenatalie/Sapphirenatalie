@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sapphirenatalie
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... (fill it out later)
-- 📫 How to reach me ... (fill it out later)
+- 💞️ I’m looking to collaborate on ... ('ll fill it out later)
+- 📫 How to reach me ... ('ll fill it out later)
 - ⚡ Fun fact: I have two lovely white wagtails as pet
 
 <!---
