@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... ('ll fill it out later)
 - 📫 How to reach me ... ('ll fill it out later)
-- ⚡ Fun fact: I have two lovely white wagtails as pet
+- ⚡ Fun fact: I have two lovely white wagtails as pets
 
 <!---
 Sapphirenatalie/Sapphirenatalie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
